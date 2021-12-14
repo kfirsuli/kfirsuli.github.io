@@ -1,0 +1,14 @@
+---
+title: "Fast and Simple One-Way High-Dimensional Quantum Key Distribution"
+collection: publications
+permalink: /publication/QKD
+excerpt: High-dimensional quantum key distribution (QKD) provides ultimate secure communication with secure key rates that cannot be obtained by QKD protocols with binary encoding. However, so far the proposed protocols required additional experimental resources, thus raising the cost of practical high-dimensional systems and limiting their use. Here, we analyze and demonstrate a novel scheme for fiber-based arbitrary-dimensional QKD, based on the most popular commercial hardware for binary time bins encoding. Quantum state transmission is tested over 40 km channel length of standard single-mode fiber, exhibiting a two-fold enhancement of the secret key rate in comparison to the binary Coherent One Way (COW) protocol, without introducing any hardware modifications. This work holds a great potential to enhance the performance of already installed QKD systems by software update alone.
+date: 11.5.21
+venue: 'arXiv'
+paperurl: 'http://kfirsuli.github.io/files/QKD.pdf'
+citation: 'Kfir Sulimant et al. (2020). &quot;Fast and Simple One-Way High-Dimensional Quantum Key Distribution&quot; <i>Journal 1</i>. 1(1).'
+---
+Description here !
+[Download paper here](http://kifrsuli.github.io/files/QKD.pdf)
+
+Recommended citation: Kfir Sulimany et al (2020). "Fast and Simple One-Way High-Dimensional Quantum Key Distribution" <i>arxiv</i>. 1(1).
