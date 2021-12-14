@@ -1,0 +1,14 @@
+---
+title: "Ultrafast twin-peak rogue waves in a vector field"
+collection: publications
+permalink: /publication/Twin
+excerpt: Rogue waves, which were first described as an oceanographic phenomenon, constitute an important factor in the dynamics of many physical systems. Most of these systems were analyzed by scalar fields, while some of them, and specifically in optics, are described by a vector field. Thus, they differ from scalar systems in several crucial aspects. In this work, we study experimentally twin-peak rogue waves with a temporal imaging system capable of measuring the Stokes vectors as a function of time. We found that the two peaks in optical twin-peak rogue waves have orthogonal states of polarization and similar intensities. We observed this with two different systems, however, we do not have a theoretical explanation for this phenomena and could not explain it with current models.
+date: 15.11.19
+venue: 'OSA Continuum'
+paperurl: 'http://kfirsuli.github.io/files/Twin.pdf'
+citation: 'Avi Klein et al. (2020). &quot;Ultrafast twin-peak rogue waves in a vector field&quot; <i>Journal 1</i>. 1(1).'
+---
+Description here !
+[Download paper here](http://kifrsuli.github.io/files/All.pdf)
+
+Recommended citation: Avi Klein et al (2020). "Ultrafast twin-peak rogue waves in a vector field" <i>arxiv</i>. 1(1).
