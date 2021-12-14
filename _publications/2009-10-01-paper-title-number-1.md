@@ -10,6 +10,6 @@ citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 
 ---
 This paper is about the number 1. The number 2 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/Pairs of Solitons Bound by Noise-Mediated Casimir-Like Interactions.pdf)
+[Download paper here](http://kifrsuli.github.io/files/solitons.pdf)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: Kfir Sulimany et al (2021). "Pairs of Solitons Bound by Noise-Mediated Casimir-Like Interactions" <i>arxiv</i>. 1(1).
