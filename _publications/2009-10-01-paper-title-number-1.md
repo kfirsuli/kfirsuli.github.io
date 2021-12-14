@@ -1,9 +1,9 @@
 ---
-title: "Paper Title Number 1"
+title: "Pairs of Solitons Bound by Noise-Mediated Casimir-Like Interactions"
 collection: publications
-permalink: /publication/Pairs of Solitons Bound by Noise-Mediated Casimir-Like Interactions
+permalink: /publication/Soliton_pairs
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
+date: 14.12.21
 venue: 'Journal 1'
 paperurl: 'http://kfirsuli.github.io/files/solitons.pdf'
 citation: 'Your Name, You. (2009). &quot;Pairs of Solitons Bound by Noise-Mediated Casimir-Like Interactions&quot; <i>Journal 1</i>. 1(1).'
