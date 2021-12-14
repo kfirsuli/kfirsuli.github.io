@@ -1,7 +1,7 @@
 ---
 title: "Reconfigurable synthesizer for quantum information processing of high-dimensional entangled photons"
 collection: publications
-permalink: /publication/All-fiber
+permalink: /publication/Reconfigurable
 excerpt: High-dimensional entangled photons are a key resource for advanced quantum information processing. Efficient processing of high-dimensional entangled photons requires the ability to synthesize their state using general unitary transformations. The leading technology for processing photons in high-dimensions is integrated multiport interferometers. However, such devices are incompatible with free-space and fiber-based systems, and their architecture poses significant scaling challenges. Here we unlock these limitations by demonstrating a reconfigurable processor of entangled photons that is based on multi-plane light conversion (MPLC), a technology that was recently developed for multiplexing hundreds of spatial modes for classical free-space and fiber communication. To demonstrate the flexibility of MPLC, we perform four key tasks of quantum information processing using the same MPLC hardware: entanglement certification, tailored two-photon interference, arbitrary state transformations, and mode conversion. Based on the high degree of control we obtain, we expect MPLC will become a leading platform for future quantum technologies.
 date: 4.8.2021
 venue: 'arXiv preprint arXiv:2108.02258'
