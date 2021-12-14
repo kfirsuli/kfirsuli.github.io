@@ -1,20 +1,9 @@
 ---
-title: "Teaching experience 1"
+title: "Physics Lab III: Advanced experiments in quantum and modern physics"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "Racah Institute of Physics, The Hebrew University of Jerusalem"
+date: 2020-01-01
+location: "Jerusalem, Israel"
 ---
-
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
