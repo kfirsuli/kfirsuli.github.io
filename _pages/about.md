@@ -19,6 +19,6 @@ Starting from 2017, I have been a PhD student in Prof. Yaron Bromberg’s lab at
 In 2021, along with my colleagues Dror Liran, Alon Salhov and Zohar Nowik, I co-founded the Student Chapter of the HUJI Quantum Information Center with the purpose of growing the quantum information community at the university and beyond.
 
 <p align="center">
-  <img src='/images/Yaron.png'>   <img src='/images/Group.png'>
+  <img src='/images/Yaron.png' width="400">   <img src='/images/Group.png' width="400">
 </p>
 
