@@ -1,5 +1,5 @@
 ---
-title: "Physics Lab III: Advanced experiments in quantum and modern physics"
+title: "77508 - Physics Lab III: Advanced experiments in quantum and modern physics"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
