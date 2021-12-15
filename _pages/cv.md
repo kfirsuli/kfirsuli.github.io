@@ -37,11 +37,11 @@ Work experience
 
 Fellowships, Honors and Awards
 ======
-* 2020-present 	Quantum Technology fellowship of the Israeli Council for Higher Education (VATAT)
+* 2020 	        Quantum Technology fellowship of the Israeli Council for Higher Education (VATAT)
 * 2018	 	      Excellence award from the Israel’s Intelligence Corps Technological Unit
 * 2017		      Representative for accepting the Israeli Defense Award
-* 2011-2014 	  Talpiot Elite Training Academic Program, Israeli Air Force
-* 2009-2010	    Program for Mathematically Gifted Youth, Bar-Ilan University, Israel
+* 2014 	        Talpiot Elite Training Academic Program, Israeli Air Force
+* 2010	        Program for Mathematically Gifted Youth, Bar-Ilan University, Israel
 * 2008		      FIRST robotics international competition in Atlanta, USA
 
 Publications
