@@ -26,16 +26,24 @@ Education
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2019-2020  Quantum Technology Branch, Mafa’t, Ministry of Defense, Israel (Israel’s DARPA equivalent)
+  * Leading the development of the Israeli Quantum Key Distribution national demonstrator
+    * Responsibility of algorithmic security analysis against a quantum computer
+    * Development in the areas of quantum optics, electro optics, RF electronics, algorithms
+  * Advisor for the Israeli Ministry of Defense’s quantum program  
+  * Participating in the Quantum cryptography IDQ winter school 2020 
+*2014-2018  Officer in the Technological Unit, rank Captain, Intelligence Corps, Israel Defense Forces
+  * R&D team leader of a group of 8 physicists and engineers 
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
+Fellowships, Honors and Awards
+======
+* 2020-present 	Quantum Technology fellowship of the Israeli Council for Higher Education (VATAT)
+* 2018	 	      Excellence award from the Israel’s Intelligence Corps Technological Unit
+* 2017		      Representative for accepting the Israeli Defense Award
+* 2011-2014 	  Talpiot Elite Training Academic Program, Israeli Air Force
+* 2009-2010	    Program for Mathematically Gifted Youth, Bar-Ilan University, Israel
+* 2008		      FIRST robotics international competition in Atlanta, USA
+
 Skills
 ======
 * Skill 1
@@ -63,6 +71,4 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
