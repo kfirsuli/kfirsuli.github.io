@@ -32,7 +32,7 @@ Work experience
     * Development in the areas of quantum optics, electro optics, RF electronics, algorithms
   * Advisor for the Israeli Ministry of Defense’s quantum program  
   * Participating in the Quantum cryptography IDQ winter school 2020 
-*2014-2018  Officer in the Technological Unit, rank Captain, Intelligence Corps, Israel Defense Forces
+* 2014-2018  Officer in the Technological Unit, rank Captain, Intelligence Corps, Israel Defense Forces
   * R&D team leader of a group of 8 physicists and engineers 
 
 Fellowships, Honors and Awards
