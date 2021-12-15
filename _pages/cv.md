@@ -44,15 +44,6 @@ Fellowships, Honors and Awards
 * 2009-2010	    Program for Mathematically Gifted Youth, Bar-Ilan University, Israel
 * 2008		      FIRST robotics international competition in Atlanta, USA
 
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
 Publications
 ======
   <ul>{% for post in site.publications %}
