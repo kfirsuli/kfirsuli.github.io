@@ -11,17 +11,16 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 
 * 2018-present  Ph.D., Racah Institute of Physics, Hebrew University of Jerusalem, Israel
   
   Advisor: Prof. Yaron Bromberg
   
   Research interests:
-    Complex photonic states for quantum communication, computation, and sensing
-    Quantum information, quantum key distribution, cluster states quantum computation
+  
+  Complex photonic states for quantum communication, computation, and sensing
+  
+  Quantum information, quantum key distribution, cluster states quantum computation
   
   Co-founded and leading the Quantum Information Science Center student chapter
   
