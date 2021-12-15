@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/Soliton_pairs
 excerpt: We study experimentally and theoretically the steady states of two-soliton waveforms that form stationary bound states in a fiber laser, passively mode locked by a nonlinear-multimode-interference-based saturable absorber. We control the steady state separation by changing the laser parameters, and in particular demonstrate a dynamical transition between loosely-bound states where the solitons interact via the noise-mediated Casimir-like interactions, and tightly-bound states dominated by coherent overlap interactions. We show that the measured pulse separations of the loosely bound pairs are well-described by the NMI theory, and present a steady state phase diagram that captures the transitions between the loosely- and tightly-bound states as an intrinsic consequence of the form of the noise-mediated interaction effective potential.
 date: 14.12.2021
-venue: 'arXiv'
+venue: 'arXiv preprint arXiv:2112.07136'
 paperurl: 'http://kfirsuli.github.io/files/solitons.pdf'
 citation: 'Kfir Sulimany et al. (2021). &quot;Pairs of Solitons Bound by Noise-Mediated Casimir-Like Interactions&quot; <i>Journal 1</i>. 1(1).'
 ---
