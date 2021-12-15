@@ -16,11 +16,7 @@ Education
   
   Advisor: Prof. Yaron Bromberg
   
-  Research interests:
-  
-  Complex photonic states for quantum communication, computation, and sensing
-  
-  Quantum information, quantum key distribution, cluster states quantum computation
+  Research interests: Complex photonic states for quantum technologies including qunatum computation, and quantum key distribution.
   
   Co-founded and leading the Quantum Information Science Center student chapter
   
