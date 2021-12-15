@@ -15,18 +15,25 @@ Education
 * M.S. in Jekyll, GitHub University, 2014
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 
-* Ph.D., Racah Institute of Physics, Hebrew University of Jerusalem, Israel
+* 2018-present  Ph.D., Racah Institute of Physics, Hebrew University of Jerusalem, Israel
+  
   Advisor: Prof. Yaron Bromberg
+  
   Research interests:
     Complex photonic states for quantum communication, computation, and sensing
     Quantum information, quantum key distribution, cluster states quantum computation
+  
   Co-founded and leading the Quantum Information Science Center student chapter
+  
   Physics lab instructor of third year undergraduate students in quantum optics (academic course #77508)
-* M.Sc., Racah Institute of Physics, Hebrew University of Jerusalem, Israel
+* 2014-2017   M.Sc., Racah Institute of Physics, Hebrew University of Jerusalem, Israel
+  
   Advisor: Prof. Hadar Steinberg
-* Diploma in Computer Science for B.Sc. graduates, Open University, Israel
+* 2015-2016   Diploma in Computer Science for B.Sc. graduates, Open University, Israel
+  
   Including programming courses (Java, Python, C, OS) and theory (Data Structures, Algorithms, Complexity Theory)
-* B.Sc., Physics and Mathematics, Talpiot Elite Training Academic Program, Hebrew University of Jerusalem, Israel
+* 2011-2014   B.Sc., Physics and Mathematics, Talpiot Elite Training Academic Program, Hebrew University of Jerusalem, Israel
+  
   Teaching assistant of a course in electrical engineering (academic course #83536)
 
 
