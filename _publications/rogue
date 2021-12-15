@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/rogue
 excerpt: We use spontaneous four wave mixing to generate multimode photon pairs in a few mode fiber. We show the photons are correlated in the fiber mode basis using an all-fiber mode sorter.
 date: 27.12.2020
-venue: 'arXiv preprint arXiv:2012.14024'
+venue: 'Optica 5.7 (2018): 774-778'
 paperurl: 'http://kfirsuli.github.io/files/All.pdf'
 citation: 'Kfir Sulimany et al. (2020). &quot;All-fiber source and sorter for multimode correlated photons&quot; <i>arXiv preprint arXiv:2012.14024</i>. 1(1).'
 ---
