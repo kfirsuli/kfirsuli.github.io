@@ -14,22 +14,22 @@ Education
 
 * 2018-present  Ph.D., Racah Institute of Physics, Hebrew University of Jerusalem, Israel
   
-  Advisor: Prof. Yaron Bromberg
+      Advisor: Prof. Yaron Bromberg
   
-  Research interests: Complex photonic states for quantum technologies including qunatum computation, and quantum key distribution.
+      Research interests: Complex photonic states for quantum technologies including qunatum computation, and quantum key distribution.
   
-  Co-founded and leading the Quantum Information Science Center student chapter
+      Co-founded and leading the Quantum Information Science Center student chapter
   
-  Physics lab instructor of third year undergraduate students in quantum optics (academic course #77508)
+      Physics lab instructor of third year undergraduate students in quantum optics (academic course #77508)
 * 2014-2017   M.Sc., Racah Institute of Physics, Hebrew University of Jerusalem, Israel
   
-  Advisor: Prof. Hadar Steinberg
+      Advisor: Prof. Hadar Steinberg
 * 2015-2016   Diploma in Computer Science for B.Sc. graduates, Open University, Israel
   
-  Including programming courses (Java, Python, C, OS) and theory (Data Structures, Algorithms, Complexity Theory)
+      Including programming courses (Java, Python, C, OS) and theory (Data Structures, Algorithms, Complexity Theory)
 * 2011-2014   B.Sc., Physics and Mathematics, Talpiot Elite Training Academic Program, Hebrew University of Jerusalem, Israel
   
-  Teaching assistant of a course in electrical engineering (academic course #83536)
+      Teaching assistant of a course in electrical engineering (academic course #83536)
 
 
 Work experience
