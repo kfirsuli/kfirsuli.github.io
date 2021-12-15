@@ -1,5 +1,5 @@
 ---
-title: "From Linear Algebra To The iPhone: Intro To Electronical And System Engineering From Basic Principles"
+title: "83536 - From linear algebra to yhe iPhone: Intro to electronical and system engineering from basic principles"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
