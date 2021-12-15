@@ -2,7 +2,7 @@
 title: "Reconfigurable synthesizer for quantum information processing of high-dimensional entangled photons"
 collection: publications
 permalink: /publication/Reconfigurable
-excerpt: Here we demonstrate a reconfigurable processor of entangled photons that is based on multi-plane light conversion, a technology that was recently developed for multiplexing hundreds of spatial modes for classical free-space and fiber communication. To demonstrate the flexibility of MPLC, we perform four key tasks of quantum information processing using the same MPLC hardware: entanglement certification, tailored two-photon interference, arbitrary state transformations, and mode conversion. 
+excerpt: We demonstrate a reconfigurable processor of entangled photons that is based on multi-plane light conversion. To demonstrate the flexibility of MPLC, we perform four key tasks of quantum information processing using the same MPLC hardware: entanglement certification, tailored two-photon interference, arbitrary state transformations, and mode conversion. 
 date: 4.8.2021
 venue: 'arXiv preprint arXiv:2108.02258'
 paperurl: 'http://kfirsuli.github.io/files/Reconfigurable.pdf'
