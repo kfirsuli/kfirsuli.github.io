@@ -73,13 +73,31 @@ experience:
       Nine years in the elite Talpiot program. Led R&D teams in the Intelligence Corps.
 
 awards:
-  - title: Zuckerman Israeli Postdoctoral Scholarship
-    awarder: Zuckerman STEM Leadership Program
-    date: "2023-01-01"
-  - title: Quantum Technology Fellowship
+  - title: Marie Skłodowska-Curie Postdoctoral Fellowship
+    awarder: European Commission
+    date: "2025-01-01"
+  - title: Fulbright Postdoctoral Fellowship (declined)
+    awarder: Fulbright Program
+    date: "2023-06-01"
+  - title: Israeli Council for Higher Education (CHE) Postdoctoral Fellowship
     awarder: Israeli Council for Higher Education
+    date: "2023-05-01"
+  - title: Zuckerman Postdoctoral Scholarship
+    awarder: Zuckerman STEM Leadership Program
+    date: "2023-04-01"
+  - title: Racah Institute Award for Excellent PhD Research
+    awarder: Racah Institute of Physics, Hebrew University
+    date: "2023-03-01"
+  - title: Prize for Excellent PhD Student
+    awarder: Center for Nanoscience, Hebrew University
+    date: "2023-02-01"
+  - title: Excellence Award for PhD Research
+    awarder: Quantum Information Science Center, Hebrew University
+    date: "2022-01-01"
+  - title: Quantum Technology Fellowship
+    awarder: Israeli Council for Higher Education (VATAT)
     date: "2020-01-01"
   - title: Talpiot Program Graduate
     awarder: Israel Defense Forces
     date: "2005-01-01"
-    summary: Elite IDF science and leadership track, selecting ~50 recruits per year for intensive training in physics, mathematics, and computer science.
+    summary: Elite IDF science and leadership track, selecting ~50 recruits per year.
