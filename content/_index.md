@@ -12,7 +12,7 @@ sections:
     content:
       username: me
       text: |
-        Kfir Sulimany is an incoming Assistant Professor at the Technion's Andrew and Erna Viterbi Faculty of Electrical & Computer Engineering. He currently leads the Quantum Perception team at MIT's Research Laboratory for Electronics, working with Prof. Dirk Englund. He received his PhD in Physics from the Hebrew University of Jerusalem under Prof. Yaron Bromberg. His multidisciplinary background — spanning quantum information science, photonics, and artificial intelligence — drives his research at the intersection of quantum optics and machine intelligence on physical platforms.
+        Kfir Sulimany is an incoming Assistant Professor at the Technion's Andrew and Erna Viterbi Faculty of Electrical & Computer Engineering, where he is building the **Quantum Machine Intelligence Lab**. He currently leads the Quantum Perception team at MIT's Research Laboratory for Electronics, working with Prof. Dirk Englund. He received his PhD in Physics from the Hebrew University of Jerusalem under Prof. Yaron Bromberg. His multidisciplinary background — spanning quantum information science, photonics, and artificial intelligence — drives his research at the intersection of quantum optics and machine intelligence on physical platforms.
       headings:
         about: ''
         education: ''

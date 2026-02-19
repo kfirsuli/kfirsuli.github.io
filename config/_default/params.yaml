@@ -3,6 +3,8 @@
 ############################
 
 hugoblox:
+  identity:
+    name: "\u200C"
   branding:
     name: Kfir Sulimany
     organization: Technion — Israel Institute of Technology
