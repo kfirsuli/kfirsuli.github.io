@@ -15,7 +15,7 @@ sections:
       text: |
         ## Principal Investigator
 
-        **Dr. Kfir Sulimany** — Incoming Assistant Professor, Technion ECE
+        **Kfir Sulimany** — Incoming Assistant Professor, Technion ECE
         Currently: Postdoctoral Fellow & Group Leader, MIT RLE
 
         ---

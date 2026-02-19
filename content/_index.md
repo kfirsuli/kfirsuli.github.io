@@ -12,7 +12,7 @@ sections:
     content:
       username: me
       text: |
-        Dr. Kfir Sulimany is an incoming Assistant Professor at the Technion's Andrew and Erna Viterbi Faculty of Electrical & Computer Engineering. He is currently a postdoctoral fellow and group leader at MIT's Research Laboratory for Electronics, working with Prof. Dirk Englund. He received his PhD in Physics from the Hebrew University of Jerusalem under Prof. Yaron Bromberg. Before academia, he served nine years in the IDF's Talpiot program, leading R&D teams in the Intelligence Corps.
+        Kfir Sulimany is an incoming Assistant Professor at the Technion's Andrew and Erna Viterbi Faculty of Electrical & Computer Engineering. He is currently a postdoctoral fellow and group leader at MIT's Research Laboratory for Electronics, working with Prof. Dirk Englund. He received his PhD in Physics from the Hebrew University of Jerusalem under Prof. Yaron Bromberg. Before academia, he served nine years in the IDF's Talpiot program, leading R&D teams in the Intelligence Corps.
       button:
         text: Download CV
         url: uploads/resume.pdf

@@ -35,7 +35,7 @@ sections:
 
         As deep learning moves to the cloud, protecting sensitive data during computation becomes critical. I pioneered a new approach that uses **quantum mechanics to provide information-theoretic security** for multiparty deep learning — guaranteeing security not by computational hardness assumptions, but by the laws of physics.
 
-        Our protocol enables multiple parties to collaboratively perform deep neural network inference without revealing their private data to each other or to the server. This work was published in **Physical Review X (2025)** and received widespread media coverage from MIT News, ScienceDaily, Phys.org, and SciTechDaily.
+        Our protocol enables multiple parties to collaboratively perform deep neural network inference without revealing their private data to each other or to the server. This work was published in **Physical Review X (2025)** and received widespread media coverage from [MIT News](https://news.mit.edu/2024/new-security-protocol-shields-data-during-cloud-based-computation-0926), [Tech Briefs](https://www.techbriefs.com/component/content/article/52065-new-security-protocol-protects-cloud-based-server-data), ScienceDaily, Phys.org, and SciTechDaily.
 
         *Key paper: Physical Review X (2025)*
 

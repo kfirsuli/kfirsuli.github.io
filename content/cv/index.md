@@ -1,6 +1,6 @@
 ---
 title: CV
-summary: Curriculum vitae of Dr. Kfir Sulimany
+summary: Curriculum vitae of Kfir Sulimany
 type: landing
 date: 2024-01-01
 
