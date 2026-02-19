@@ -32,7 +32,7 @@ sections:
 
         - **[Prof. Dirk Englund](https://www.rle.mit.edu/qp/)** — MIT, Quantum Photonics Group
         - **[Prof. Yaron Bromberg](https://phys.huji.ac.il/people/yaron-bromberg)** — Hebrew University of Jerusalem, Complex Photonics Lab
-        - **[Prof. Ryan Hamerly](https://ryanhamerly.com/)** — MIT
+        - **[Dr. Ryan Hamerly](https://ryanhamerly.com/)** — MIT
         - **[Prof. Michael Ben-Or](https://www.cs.huji.ac.il/~benor/)** — Hebrew University of Jerusalem
 
         ---
