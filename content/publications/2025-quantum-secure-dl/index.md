@@ -20,5 +20,7 @@ links:
     url: https://news.mit.edu/2024/new-security-protocol-shields-data-during-cloud-based-computation-0926
   - name: Tech Briefs
     url: https://www.techbriefs.com/component/content/article/52065-new-security-protocol-protects-cloud-based-server-data
+image:
+  caption: 'Image credit: Sampson Wilcox'
 featured: true
 ---
