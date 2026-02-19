@@ -70,7 +70,7 @@ experience:
     start: 2005
     end: 2014
     summary: |
-      Nine years in the elite Talpiot program. Led R&D teams in the Intelligence Corps. Recipient of the Israel Defense Award.
+      Nine years in the elite Talpiot program. Led R&D teams in the Intelligence Corps.
 
 awards:
   - title: Zuckerman Israeli Postdoctoral Scholarship
@@ -79,9 +79,6 @@ awards:
   - title: Quantum Technology Fellowship
     awarder: Israeli Council for Higher Education
     date: "2020-01-01"
-  - title: Israel Defense Award
-    awarder: Israel Defense Forces
-    date: "2014-01-01"
   - title: Talpiot Program Graduate
     awarder: Israel Defense Forces
     date: "2005-01-01"

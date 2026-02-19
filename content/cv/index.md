@@ -29,7 +29,6 @@ sections:
 
         - **Zuckerman Israeli Postdoctoral Scholarship** (2023-2024) — Zuckerman STEM Leadership Program
         - **Quantum Technology Fellowship** (2020) — Israeli Council for Higher Education
-        - **Israel Defense Award** — Unit representative, IDF Intelligence Corps
         - **Talpiot Program** (2005-2014) — IDF's elite science and leadership track, selecting ~50 recruits per year
 
         ---
