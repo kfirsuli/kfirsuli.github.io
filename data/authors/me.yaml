@@ -1,0 +1,88 @@
+schema: hugoblox/author/v1
+slug: me
+is_owner: true
+name:
+  display: Dr. Kfir Sulimany
+  given: Kfir
+  family: Sulimany
+postnominals:
+  - PhD
+role: Incoming Assistant Professor, Technion ECE
+bio: |
+  Incoming Assistant Professor at the Technion. Currently a postdoctoral fellow
+  and group leader at MIT, working on quantum photonics, secure AI, and
+  nonlinear optics.
+
+affiliations:
+  - name: MIT — Research Laboratory for Electronics
+    url: https://www.rle.mit.edu/
+  - name: Technion — Viterbi Faculty of ECE
+    url: https://ece.technion.ac.il/
+
+links:
+  - icon: at-symbol
+    url: mailto:kfir.sulimany@gmail.com
+    label: E-mail Me
+  - icon: brands/google-scholar
+    url: https://scholar.google.com/citations?user=U_fAseUAAAAJ
+  - icon: brands/github
+    url: https://github.com/kfirsuli
+  - icon: brands/linkedin
+    url: https://www.linkedin.com/in/kfirsuli/
+  - icon: academicons/orcid
+    url: https://orcid.org/0000-0003-0594-6236
+
+interests:
+  - Quantum Photonics
+  - Quantum-Secure AI
+  - Nonlinear Fiber Optics
+  - Optical Neural Networks
+  - High-Dimensional QKD
+
+education:
+  - degree: PhD in Physics
+    institution: Hebrew University of Jerusalem
+    start: 2017
+    end: 2023
+    summary: |
+      Advisor: Prof. Yaron Bromberg. Research on quantum communication, multimode fiber optics, and nonlinear soliton dynamics.
+  - degree: MSc in Physics
+    institution: Hebrew University of Jerusalem
+    start: 2014
+    end: 2017
+  - degree: BSc in Physics and Mathematics
+    institution: Hebrew University of Jerusalem
+    start: 2011
+    end: 2014
+
+experience:
+  - role: Incoming Assistant Professor
+    org: Technion — Viterbi Faculty of ECE
+    start: 2026
+    summary: Building a new research lab at the intersection of quantum photonics, secure AI, and nonlinear optics.
+  - role: Postdoctoral Fellow & Group Leader
+    org: MIT — Research Laboratory for Electronics
+    start: 2023
+    summary: |
+      Working with Prof. Dirk Englund on quantum-secure deep learning, optical neural networks, and quantum communication.
+  - role: Talpiot Program — IDF
+    org: Israel Defense Forces
+    start: 2005
+    end: 2014
+    summary: |
+      Nine years in the elite Talpiot program. Led R&D teams in the Intelligence Corps. Recipient of the Israel Defense Award.
+
+awards:
+  - title: Zuckerman Israeli Postdoctoral Scholarship
+    awarder: Zuckerman STEM Leadership Program
+    date: "2023-01-01"
+  - title: Quantum Technology Fellowship
+    awarder: Israeli Council for Higher Education
+    date: "2020-01-01"
+  - title: Israel Defense Award
+    awarder: Israel Defense Forces
+    date: "2014-01-01"
+  - title: Talpiot Program Graduate
+    awarder: Israel Defense Forces
+    date: "2005-01-01"
+    summary: Elite IDF science and leadership track, selecting ~50 recruits per year for intensive training in physics, mathematics, and computer science.

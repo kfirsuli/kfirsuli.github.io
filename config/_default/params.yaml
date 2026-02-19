@@ -1,0 +1,132 @@
+############################
+## SITE IDENTITY
+############################
+
+hugoblox:
+  branding:
+    name: Kfir Sulimany
+    organization: Technion — Israel Institute of Technology
+    type: person
+    tagline: Incoming Assistant Professor, Technion ECE
+    description: Personal academic website of Dr. Kfir Sulimany — quantum photonics, secure AI, nonlinear optics.
+    twitter: ''
+
+############################
+## THEME
+############################
+
+appearance:
+  mode: light
+  color: primary
+
+theme:
+  primary:
+    50: '#e6f0ff'
+    100: '#b3d1ff'
+    200: '#80b3ff'
+    300: '#4d94ff'
+    400: '#1a75ff'
+    500: '#005BAA'
+    600: '#004d91'
+    700: '#003f78'
+    800: '#00315f'
+    900: '#002346'
+  secondary:
+    50: '#f0f4f8'
+    100: '#d9e2ec'
+    200: '#bcccdc'
+    300: '#9fb3c8'
+    400: '#829ab1'
+    500: '#627d98'
+    600: '#486581'
+    700: '#334e68'
+    800: '#243b53'
+    900: '#102a43'
+  neutral:
+    50: '#f9fafb'
+    100: '#f3f4f6'
+    200: '#e5e7eb'
+    300: '#d1d5db'
+    400: '#9ca3af'
+    500: '#6b7280'
+    600: '#4b5563'
+    700: '#374151'
+    800: '#1f2937'
+    900: '#111827'
+
+############################
+## TYPOGRAPHY
+############################
+
+font:
+  family: sans
+  size: md
+
+############################
+## LAYOUT
+############################
+
+border_radius: md
+spacing: normal
+avatar:
+  shape: circle
+
+############################
+## HEADER
+############################
+
+header:
+  navbar:
+    enable: true
+    fixed: true
+    search: false
+    theme_toggle: true
+    highlight_active_link: true
+
+############################
+## FOOTER
+############################
+
+footer:
+  copyright:
+    notice: '© {year} Kfir Sulimany. All rights reserved.'
+
+############################
+## SEO & CONTENT
+############################
+
+features:
+  math:
+    enable: false
+  privacy_pack:
+    enable: false
+
+############################
+## COMMENTS
+############################
+
+comments:
+  provider: ''
+
+############################
+## SEARCH
+############################
+
+search:
+  provider: ''
+
+############################
+## MARKETING
+############################
+
+marketing:
+  analytics:
+    google_analytics: ''
+
+############################
+## CMS
+############################
+
+cms:
+  branch: main
+  local_backend: false
