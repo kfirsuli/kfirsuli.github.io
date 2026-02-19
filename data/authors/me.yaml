@@ -64,19 +64,19 @@ education:
 experience:
   - role: Incoming Assistant Professor
     org: Technion — Viterbi Faculty of ECE
-    start: 2026
-    summary: Building a new research lab at the intersection of quantum photonics, secure AI, and nonlinear optics.
+    start: 2027
+    summary: Building the Quantum Machine Intelligence Lab at the intersection of quantum photonics, secure AI, and nonlinear optics.
   - role: Postdoctoral Fellow & Team Leader
     org: MIT — Research Laboratory for Electronics
     start: 2023
     summary: |
       Leading the Quantum Perception team in Prof. Dirk Englund's Quantum Photonics & AI group. Research on quantum-secure deep learning, in-physics computing, and automated theorem proving.
-  - role: Talpiot Program — IDF
+  - role: R&D Leader
     org: Israel Defense Forces
-    start: 2005
-    end: 2014
+    start: 2011
+    end: 2020
     summary: |
-      Nine years in the elite Talpiot program. Developed electro-optic systems, led R&D teams in the Intelligence Corps, and contributed to the Israeli Quantum Key Distribution National Project. Later advised the Israeli quantum program.
+      Talpiot program graduate. Developed electro-optic systems, led R&D teams in the Intelligence Corps, and contributed to the Israeli Quantum Key Distribution National Project. Advised the Israeli quantum program.
 
 awards:
   - title: Marie Skłodowska-Curie Postdoctoral Fellowship
