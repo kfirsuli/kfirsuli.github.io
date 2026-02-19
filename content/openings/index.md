@@ -76,7 +76,7 @@ sections:
 
         ## How to Apply
 
-        Send me an email at **kfir.sulimany@gmail.com** with:
+        Send me an email at **kfir@mit.edu** with:
 
         1. **Your CV** (including publications, if any)
         2. **A brief research statement** (1-2 paragraphs): What excites you about this lab's research? What would you like to work on?

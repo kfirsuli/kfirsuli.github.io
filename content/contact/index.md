@@ -15,7 +15,7 @@ sections:
       text: |
         ## Email
 
-        **kfir.sulimany@gmail.com**
+        **kfir@mit.edu**
 
         ---
 
