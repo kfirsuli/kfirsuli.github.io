@@ -101,7 +101,7 @@ sections:
     content:
       title: Join the Quantum Machine Intelligence Lab
       text: |
-        I'm building a new research lab at the Technion's ECE faculty — the Quantum Machine Intelligence Lab. I'm looking for motivated PhD students, postdocs, and MSc students to work on quantum-secure AI, in-physics computing, automated theorem proving, and photonics.
+        We are building a new research lab at the Technion's ECE faculty. We're looking for motivated PhD students, postdocs, and MSc students to work on quantum-secure AI, in-physics computing, automated theorem proving, and photonics.
       button:
         text: Open Positions
         url: /openings/
