@@ -56,6 +56,10 @@ education:
     institution: Hebrew University of Jerusalem (Talpiot)
     start: 2008
     end: 2011
+  - degree: Diploma in Computer Science for BSc Graduates
+    institution: Open University of Israel
+    start: 2013
+    end: 2016
 
 experience:
   - role: Incoming Assistant Professor
