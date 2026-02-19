@@ -3,7 +3,7 @@ title: "QAMNet: Fast and efficient optical QAM neural networks"
 authors:
   - Marc Gong Bacvanski
   - Sri Vadlamani
-  - admin
+  - Kfir Sulimany
   - Dirk Englund
 date: "2024-09-18"
 publication_types: ["article"]

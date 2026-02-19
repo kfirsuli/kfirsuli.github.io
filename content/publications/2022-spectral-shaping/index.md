@@ -2,7 +2,7 @@
 title: "Spectral shaping in a multimode fiber by all-fiber modulation"
 authors:
   - Zohar Finkelstein
-  - admin
+  - Kfir Sulimany
   - Shachar Resisi
   - Yaron Bromberg
 date: "2022-08-01"

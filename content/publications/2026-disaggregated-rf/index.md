@@ -3,7 +3,7 @@ title: "Disaggregated machine learning via in-physics computing at radio frequen
 authors:
   - Zhihui Gao
   - Sri Vadlamani
-  - admin
+  - Kfir Sulimany
   - Dirk Englund
   - Tingjun Chen
 date: "2026-01-09"

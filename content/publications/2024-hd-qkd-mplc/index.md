@@ -2,7 +2,7 @@
 title: "High-dimensional quantum key distribution using a multi-plane light converter"
 authors:
   - Ohad Lib
-  - admin
+  - Kfir Sulimany
   - Mateus Araujo
   - Michael Ben-Or
   - Yaron Bromberg

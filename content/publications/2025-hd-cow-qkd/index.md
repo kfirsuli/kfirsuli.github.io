@@ -1,7 +1,7 @@
 ---
 title: "High-dimensional coherent one-way quantum key distribution"
 authors:
-  - admin
+  - Kfir Sulimany
   - Guy Pelc
   - Rom Dudkiewicz
   - Shimshon Korenblit

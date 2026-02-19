@@ -1,7 +1,7 @@
 ---
 title: "Bidirectional soliton rain dynamics induced by Casimir-like interactions in a graphene mode-locked fiber laser"
 authors:
-  - admin
+  - Kfir Sulimany
   - Ohad Lib
   - Gilad Masri
   - Avi Klein

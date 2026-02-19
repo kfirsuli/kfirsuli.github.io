@@ -1,7 +1,7 @@
 ---
 title: "Bandwidth-induced saturation in multimode fiber-based absorbers"
 authors:
-  - admin
+  - Kfir Sulimany
   - Dotan Halevi
   - Omri Gat
   - Yaron Bromberg

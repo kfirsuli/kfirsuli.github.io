@@ -2,7 +2,7 @@
 title: "Processing entangled photons in high dimensions with a programmable light converter"
 authors:
   - Ohad Lib
-  - admin
+  - Kfir Sulimany
   - Yaron Bromberg
 date: "2022-07-01"
 publication_types: ["article-journal"]

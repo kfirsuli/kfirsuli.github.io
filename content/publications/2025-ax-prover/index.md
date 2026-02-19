@@ -6,7 +6,7 @@ authors:
   - Jacob McCarran
   - Javier Aspuru Mijares
   - Weichen Winston Yin
-  - admin
+  - Kfir Sulimany
   - Jacob M. Taylor
   - Frank H. L. Koppens
   - Dirk Englund

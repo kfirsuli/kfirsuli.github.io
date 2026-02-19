@@ -5,7 +5,7 @@ authors:
   - Shir Shahal
   - Sara Meir
   - Hamootal Duadi
-  - admin
+  - Kfir Sulimany
   - Ohad Lib
   - Hadar Steinberg
   - Sergey Kolpakov

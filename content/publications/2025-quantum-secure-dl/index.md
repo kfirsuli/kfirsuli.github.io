@@ -1,7 +1,7 @@
 ---
 title: "Quantum-secure multiparty deep learning"
 authors:
-  - admin
+  - Kfir Sulimany
   - Sri Vadlamani
   - Ryan Hamerly
   - Prahlad Iyengar

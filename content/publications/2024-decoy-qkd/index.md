@@ -4,7 +4,7 @@ authors:
   - Yuval Bloom
   - Yoad Ordan
   - Tamar Levin
-  - admin
+  - Kfir Sulimany
   - Eric G. Bowes
   - Jennifer A. Hollingsworth
   - Ronen Rapaport

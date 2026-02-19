@@ -2,7 +2,7 @@
 title: "Machine intelligence on wireless edge networks"
 authors:
   - Sri Vadlamani
-  - admin
+  - Kfir Sulimany
   - Zhihui Gao
   - Tingjun Chen
   - Dirk Englund

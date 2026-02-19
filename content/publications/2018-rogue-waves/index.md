@@ -4,7 +4,7 @@ authors:
   - Avi Klein
   - Gilad Masri
   - Hamootal Duadi
-  - admin
+  - Kfir Sulimany
   - Ohad Lib
   - Hadar Steinberg
   - Sergey Kolpakov

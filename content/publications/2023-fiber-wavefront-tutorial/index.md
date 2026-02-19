@@ -2,7 +2,7 @@
 title: "Tutorial: How to build and control an all-fiber wavefront modulator using mechanical perturbations"
 authors:
   - Ronen Shekel
-  - admin
+  - Kfir Sulimany
   - Shachar Resisi
   - Zohar Finkelstein
   - Ohad Lib

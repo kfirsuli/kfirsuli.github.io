@@ -1,7 +1,7 @@
 ---
 title: "Soliton pair dynamical transition in mode-locked lasers"
 authors:
-  - admin
+  - Kfir Sulimany
   - Offek Tziperman
   - Yaron Bromberg
   - Omri Gat

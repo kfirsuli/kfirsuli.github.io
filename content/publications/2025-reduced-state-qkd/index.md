@@ -2,7 +2,7 @@
 title: "Reduced state embedding for error correction in quantum cryptography"
 authors:
   - Amit Kam
-  - admin
+  - Kfir Sulimany
   - Shai Tsesses
   - Uzi Pereg
 date: "2025-10-22"
