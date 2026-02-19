@@ -1,5 +1,5 @@
 .navbar-brand {
-  font-size: 1.5rem;
-  font-weight: 700;
+  font-size: 1.75rem !important;
+  font-weight: 700 !important;
   letter-spacing: 0.01em;
 }
