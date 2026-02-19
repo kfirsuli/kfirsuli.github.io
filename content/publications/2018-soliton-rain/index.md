@@ -16,5 +16,8 @@ abstract: "We study experimentally and theoretically the interactions among ultr
 hugoblox:
   ids:
     doi: "10.1103/PhysRevLett.121.133902"
+links:
+  - name: arXiv
+    url: https://arxiv.org/abs/1810.00336
 featured: true
 ---
