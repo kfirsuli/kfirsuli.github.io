@@ -65,6 +65,7 @@ experience:
   - role: Incoming Assistant Professor
     org: Technion — Viterbi Faculty of ECE
     start: 2027
+    end: "\u200C"
     summary: Building the Quantum Machine Intelligence Lab at the intersection of quantum photonics, secure AI, and nonlinear optics.
   - role: Postdoctoral Fellow & Team Leader
     org: MIT — Research Laboratory for Electronics
