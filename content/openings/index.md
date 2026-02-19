@@ -10,10 +10,10 @@ design:
 sections:
   - block: markdown
     content:
-      title: Join My Lab at the Technion
-      subtitle: Open Positions in Quantum Photonics, Secure AI, and Nonlinear Optics
+      title: Join the Quantum Machine Intelligence Lab
+      subtitle: Open Positions at the Technion
       text: |
-        I am building a new research group at the **Technion's Andrew and Erna Viterbi Faculty of Electrical & Computer Engineering**. The lab will work at the intersection of quantum photonics, information-theoretically secure AI, and nonlinear optics.
+        I am building the **Quantum Machine Intelligence Lab** at the **Technion's Andrew and Erna Viterbi Faculty of Electrical & Computer Engineering**.
 
         I am looking for curious, driven researchers to join me at all levels.
 
@@ -21,12 +21,12 @@ sections:
 
         ## Research Vision
 
-        Our lab will tackle some of the most exciting challenges at the boundary of quantum physics, photonics, and artificial intelligence:
+        The lab will advance the second quantum revolution in the AI era — developing novel information-processing protocols and demonstrating them on physical platforms. Our experimental toolbox includes integrated photonics, fiber optics, analog electronics, and satellite-communication infrastructure, with a dual track: harvesting classical gains now while advancing the protocols and hardware needed for scalable, fault-tolerant quantum information processing.
 
-        - **Quantum communication systems** — designing and building next-generation QKD protocols and entangled photon sources
-        - **Quantum-secure machine learning** — using quantum mechanics to guarantee privacy in cloud AI
-        - **Optical and RF neural networks** — computing directly in the physical domain for energy-efficient AI
-        - **Nonlinear photonics** — harnessing complex dynamics in fiber lasers and multimode systems
+        - **Quantum-secure machine learning** — physics-based, information-theoretically secure computation for cloud AI
+        - **In-physics computing** — optical and RF neural networks that perform ML directly in the physical domain
+        - **Automated theorem proving** — formal verification of quantum protocols in Lean
+        - **Quantum & nonlinear photonics** — soliton dynamics, photon-pair generation, coherent control, and integrated photonics
 
         We combine theory, numerical simulation, and hands-on experiments. If you enjoy working across disciplines and building things that work, this is the place for you.
 

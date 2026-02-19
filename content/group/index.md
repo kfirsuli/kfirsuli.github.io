@@ -10,19 +10,19 @@ design:
 sections:
   - block: markdown
     content:
-      title: Group
+      title: Quantum Machine Intelligence Lab
       subtitle: ''
       text: |
         ## Principal Investigator
 
         **Kfir Sulimany** — Incoming Assistant Professor, Technion ECE
-        Currently: Postdoctoral Fellow & Group Leader, MIT RLE
+        Currently: Team Leader, Quantum Perception team, MIT RLE
 
         ---
 
         ## Lab Members
 
-        *The lab is currently being established at the Technion. Positions are open at all levels — [join us](/openings/)!*
+        *The Quantum Machine Intelligence Lab is being established at the Technion. Positions are open at all levels — [join us](/openings/)!*
 
         ---
 

@@ -9,9 +9,9 @@ postnominals:
   - PhD
 role: Incoming Assistant Professor, Technion ECE
 bio: |
-  Incoming Assistant Professor at the Technion. Currently a postdoctoral fellow
-  and group leader at MIT, working on quantum photonics, secure AI, and
-  nonlinear optics.
+  Incoming Assistant Professor at the Technion. Currently leading the
+  Quantum Perception team at MIT, working on quantum-secure machine learning,
+  in-physics computing, and automated theorem proving for quantum information.
 
 affiliations:
   - name: MIT — Research Laboratory for Electronics
@@ -33,11 +33,11 @@ links:
     url: https://orcid.org/0000-0003-0594-6236
 
 interests:
-  - Quantum Photonics
-  - Quantum-Secure AI
-  - Nonlinear Fiber Optics
-  - Optical Neural Networks
-  - High-Dimensional QKD
+  - Quantum-Secure Machine Learning
+  - In-Physics AI Computing
+  - Automated Theorem Proving
+  - Quantum Photonics & Communication
+  - Nonlinear Optics
 
 education:
   - degree: PhD in Physics
@@ -50,27 +50,33 @@ education:
     institution: Hebrew University of Jerusalem
     start: 2014
     end: 2017
+    summary: |
+      Advisor: Prof. Hadar Steinberg. Research on nonlinear optics and ultrafast laser dynamics.
   - degree: BSc in Physics and Mathematics
-    institution: Hebrew University of Jerusalem
-    start: 2011
-    end: 2014
+    institution: Hebrew University of Jerusalem (Talpiot)
+    start: 2008
+    end: 2011
+  - degree: BSc in Computer Science
+    institution: Open University of Israel
+    start: 2013
+    end: 2016
 
 experience:
   - role: Incoming Assistant Professor
     org: Technion — Viterbi Faculty of ECE
     start: 2026
     summary: Building a new research lab at the intersection of quantum photonics, secure AI, and nonlinear optics.
-  - role: Postdoctoral Fellow & Group Leader
+  - role: Postdoctoral Fellow & Team Leader
     org: MIT — Research Laboratory for Electronics
     start: 2023
     summary: |
-      Working with Prof. Dirk Englund on quantum-secure deep learning, optical neural networks, and quantum communication.
+      Leading the Quantum Perception team in Prof. Dirk Englund's Quantum Photonics & AI group. Research on quantum-secure deep learning, in-physics computing, and automated theorem proving.
   - role: Talpiot Program — IDF
     org: Israel Defense Forces
     start: 2005
     end: 2014
     summary: |
-      Nine years in the elite Talpiot program. Led R&D teams in the Intelligence Corps.
+      Nine years in the elite Talpiot program. Developed electro-optic systems, led R&D teams in the Intelligence Corps, and contributed to the Israeli Quantum Key Distribution National Project. Later advised the Israeli quantum program.
 
 awards:
   - title: Marie Skłodowska-Curie Postdoctoral Fellowship

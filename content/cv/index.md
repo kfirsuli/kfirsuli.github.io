@@ -35,8 +35,4 @@ sections:
         - **Talpiot Program** (2005-2014) — IDF's elite science and leadership track
 
         ---
-
-        *Full CV available for download:*
-
-        [Download CV (PDF)](/uploads/resume.pdf)
 ---

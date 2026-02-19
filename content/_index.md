@@ -12,10 +12,7 @@ sections:
     content:
       username: me
       text: |
-        Kfir Sulimany is an incoming Assistant Professor at the Technion's Andrew and Erna Viterbi Faculty of Electrical & Computer Engineering. He is currently a postdoctoral fellow and group leader at MIT's Research Laboratory for Electronics, working with Prof. Dirk Englund. He received his PhD in Physics from the Hebrew University of Jerusalem under Prof. Yaron Bromberg. Before academia, he served nine years in the IDF's Talpiot program, leading R&D teams in the Intelligence Corps.
-      button:
-        text: Download CV
-        url: uploads/resume.pdf
+        Kfir Sulimany is an incoming Assistant Professor at the Technion's Andrew and Erna Viterbi Faculty of Electrical & Computer Engineering. He currently leads the Quantum Perception team at MIT's Research Laboratory for Electronics, working with Prof. Dirk Englund. He received his PhD in Physics from the Hebrew University of Jerusalem under Prof. Yaron Bromberg. His multidisciplinary background — spanning quantum information science, photonics, and artificial intelligence — drives his research at the intersection of quantum optics and machine intelligence on physical platforms.
       headings:
         about: ''
         education: ''
@@ -102,9 +99,9 @@ sections:
 
   - block: cta-card
     content:
-      title: Join My Lab at the Technion
+      title: Join the Quantum Machine Intelligence Lab
       text: |
-        I'm building a new research lab at the Technion's ECE faculty, working at the intersection of quantum photonics, secure AI, and nonlinear optics. I'm looking for motivated PhD students, postdocs, and MSc students to join the team.
+        I'm building a new research lab at the Technion's ECE faculty — the Quantum Machine Intelligence Lab. I'm looking for motivated PhD students, postdocs, and MSc students to work on quantum-secure AI, in-physics computing, automated theorem proving, and photonics.
       button:
         text: Open Positions
         url: /openings/
