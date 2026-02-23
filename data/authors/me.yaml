@@ -33,11 +33,10 @@ links:
     url: https://orcid.org/0000-0003-0594-6236
 
 interests:
-  - Quantum-Secure Machine Learning
-  - In-Physics AI Computing
-  - Automated Theorem Proving
-  - Quantum Photonics & Communication
-  - Nonlinear Optics
+  - Quantum Technology
+  - In-Physics Computing
+  - AI for Science
+  - Integrated Photonics
 
 education:
   - degree: PhD in Physics
@@ -66,7 +65,7 @@ experience:
     org: Technion — Viterbi Faculty of ECE
     start: 2027
     end: "\u200C"
-    summary: Building the Quantum Machine Intelligence Lab at the intersection of quantum photonics, secure AI, and nonlinear optics.
+    summary: Building the Quantum Machine Intelligence Lab at the intersection of quantum technology, in-physics computing, and AI for science.
   - role: Postdoctoral Fellow & Team Leader
     org: MIT — Research Laboratory for Electronics
     start: 2024

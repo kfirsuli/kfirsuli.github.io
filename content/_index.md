@@ -9,13 +9,13 @@ design:
 
 sections:
   - block: resume-biography-3
+    id: home-bio
     content:
       username: me
       text: |
         Kfir Sulimany is an incoming Assistant Professor at the Technion's Andrew and Erna Viterbi Faculty of Electrical & Computer Engineering, where he is building the **Quantum Machine Intelligence Lab**. He currently leads the Quantum Perception team at MIT's Research Laboratory for Electronics, working with Prof. Dirk Englund. He received his PhD in Physics from the Hebrew University of Jerusalem under Prof. Yaron Bromberg. His multidisciplinary background — spanning quantum information science, photonics, and artificial intelligence — drives his research at the intersection of quantum optics and machine intelligence on physical platforms.
       headings:
         about: ''
-        education: ''
         interests: ''
     design:
       background:
@@ -27,6 +27,19 @@ sections:
         size: large
         shape: circle
 
+  - block: cta-card
+    content:
+      title: Join the Quantum Machine Intelligence Lab
+      text: |
+        We are building a new research lab at the Technion's ECE faculty. We are hiring PhD and MSc students to work on quantum technology, in-physics computing, and AI for science, with a unique opportunity of a ~1 year funded visit to MIT as part of their studies.
+      button:
+        text: Open Positions
+        url: /openings/
+    design:
+      card:
+        css_class: 'bg-primary-700 dark:bg-primary-900'
+        css_style: ''
+
   - block: markdown
     id: research-highlights
     content:
@@ -36,27 +49,21 @@ sections:
         <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 1.5rem; margin-top: 1rem;">
 
         <div style="padding: 1.5rem; border: 1px solid #e5e7eb; border-radius: 0.75rem;">
-        <h3 style="margin-top: 0; color: #005BAA;">Quantum-Secure AI & Cryptography</h3>
-        <p>Information-theoretically secure deep learning using quantum mechanics, and high-dimensional quantum key distribution protocols.</p>
-        <a href="/research/#quantum-secure-ai">Learn more →</a>
-        </div>
-
-        <div style="padding: 1.5rem; border: 1px solid #e5e7eb; border-radius: 0.75rem;">
-        <h3 style="margin-top: 0; color: #005BAA;">AI for Science & Formal Verification</h3>
-        <p>Automated theorem proving in Lean for quantum information theory. Home of the Ax-Prover framework.</p>
-        <a href="/research/#ai-for-science">Learn more →</a>
+        <h3 style="margin-top: 0; color: #005BAA;">Quantum Technology</h3>
+        <p>Quantum cryptography, secure quantum computation, and quantum machine learning — from provably secure QKD to information-theoretically secure deep learning.</p>
+        <a href="/research/#quantum-technology">Learn more →</a>
         </div>
 
         <div style="padding: 1.5rem; border: 1px solid #e5e7eb; border-radius: 0.75rem;">
         <h3 style="margin-top: 0; color: #005BAA;">In-Physics Computing</h3>
-        <p>Optical and RF neural networks that perform machine learning directly in the physical domain — at the speed of light.</p>
+        <p>Optical and RF neural networks that perform machine learning directly in the physical domain, and the fundamental energy limits of computation.</p>
         <a href="/research/#in-physics-computing">Learn more →</a>
         </div>
 
         <div style="padding: 1.5rem; border: 1px solid #e5e7eb; border-radius: 0.75rem;">
-        <h3 style="margin-top: 0; color: #005BAA;">Quantum & Nonlinear Photonics</h3>
-        <p>Soliton dynamics, photon pair generation, coherent control in multimode fibers, and ultrafast laser physics.</p>
-        <a href="/research/#quantum-nonlinear-photonics">Learn more →</a>
+        <h3 style="margin-top: 0; color: #005BAA;">AI for Science</h3>
+        <p>Automated theorem proving with LLMs in Lean, and a formal library for quantum information theory. Home of the Ax-Prover framework.</p>
+        <a href="/research/#ai-for-science">Learn more →</a>
         </div>
 
         </div>
@@ -96,17 +103,4 @@ sections:
       view: card
       spacing:
         padding: [0, 0, 0, 0]
-
-  - block: cta-card
-    content:
-      title: Join the Quantum Machine Intelligence Lab
-      text: |
-        We are building a new research lab at the Technion's ECE faculty. We're looking for motivated PhD students, postdocs, and MSc students to work on quantum-secure AI, in-physics computing, automated theorem proving, and photonics.
-      button:
-        text: Open Positions
-        url: /openings/
-    design:
-      card:
-        css_class: 'bg-primary-700 dark:bg-primary-900'
-        css_style: ''
 ---

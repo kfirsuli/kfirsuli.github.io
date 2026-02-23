@@ -1,6 +1,6 @@
 ---
 title: Join My Lab
-summary: Open positions in quantum photonics, secure AI, and nonlinear optics at the Technion
+summary: Open positions in quantum technology, in-physics computing, and AI for science at the Technion
 type: landing
 date: 2024-01-01
 
@@ -15,36 +15,32 @@ sections:
       text: |
         We are building the **Quantum Machine Intelligence Lab** at the **Technion's Andrew and Erna Viterbi Faculty of Electrical & Computer Engineering**.
 
-        We are looking for curious, driven researchers to join us at all levels.
+        We are looking for curious, driven researchers to join us at all levels. In 2026 and 2027, Technion PhD candidates will join our team at MIT as part of their graduate studies — a unique opportunity for an extended, funded research visit at one of the world's leading research universities.
 
-        ---
 
         ## Research Vision
 
         The lab will advance the second quantum revolution in the AI era — developing novel information-processing protocols and demonstrating them on physical platforms. Our experimental toolbox includes integrated photonics, fiber optics, analog electronics, and satellite-communication infrastructure, with a dual track: harvesting classical gains now while advancing the protocols and hardware needed for scalable, fault-tolerant quantum information processing.
 
-        - **Quantum-secure machine learning** — physics-based, information-theoretically secure computation for cloud AI
-        - **In-physics computing** — optical and RF neural networks that perform ML directly in the physical domain
-        - **Automated theorem proving** — formal verification of quantum protocols in Lean
-        - **Quantum & nonlinear photonics** — soliton dynamics, photon-pair generation, coherent control, and integrated photonics
+        - **[Quantum technology](/research/#quantum-technology)** — quantum cryptography, secure computation, and quantum machine learning on integrated photonic platforms
+        - **[In-physics computing](/research/#in-physics-computing)** — optical and RF neural networks that perform ML directly in the physical domain, and the fundamental energy limits of computation
+        - **[AI for science](/research/#ai-for-science)** — LLM-driven automated theorem proving and formal verification of quantum information theory in Lean
 
         We combine theory, numerical simulation, and hands-on experiments. If you enjoy working across disciplines and building things that work, this is the place for you.
 
-        ---
 
         ## Open Positions
 
         ### PhD Students
-        We are actively recruiting PhD students to start in 2027. Selected candidates can begin working with us immediately at MIT, or join the lab at the Technion when it opens. Ideal candidates have a strong background in one or more of:
-        - Quantum optics / photonics
-        - Machine learning / deep learning
-        - Nonlinear dynamics / fiber optics
-        - Physics or electrical engineering
+        We are actively recruiting Technion PhD students to start in 2027. As part of their graduate studies, PhD students will have the opportunity to spend approximately one year at MIT working directly with Dr. Sulimany and collaborators. We are looking for candidates with a strong background relevant to one or more of our research directions:
+        - **Quantum technology** — quantum optics, photonics, quantum information, or communication engineering
+        - **In-physics computing** — machine learning, analog/digital signal processing, or optical/RF hardware
+        - **AI for science** — formal methods, programming language theory, mathematics, or experience with proof assistants
 
         No prior research experience in all areas is needed — curiosity and willingness to learn are most important.
 
         ### Postdoctoral Researchers
-        We are looking for postdocs with a PhD in physics, electrical engineering, or a related field. Positions are available immediately — you can start working with us at MIT or join the Technion lab when it opens. Experience in experimental quantum optics, optical computing, or quantum information is a plus.
+        We are looking for postdocs with a PhD in physics, electrical engineering, computer science, or a related field. Positions are available immediately — you can start working with us at MIT or join the Technion lab when it opens. Experience in quantum optics, integrated photonics, optical/analog computing, machine learning, or formal verification is a plus.
 
         ### MSc Students
         Thesis-based MSc positions are available for Technion students interested in experimental or computational projects.
@@ -52,7 +48,6 @@ sections:
         ### Visiting Researchers
         We welcome short-term visitors and collaborators. Reach out to discuss possibilities.
 
-        ---
 
         ## What We Look For
 
@@ -62,17 +57,16 @@ sections:
         - **Collaborative spirit** — willingness to work with others and share knowledge
         - **Resilience** — research involves setbacks; we value persistence and creative problem-solving
 
-        ---
 
         ## What You Get
 
+        - **Extended research visit at MIT**: PhD students will spend approximately one year at MIT, working with Dr. Sulimany and collaborators at the Research Laboratory for Electronics — a unique opportunity to gain international research experience as part of your Technion degree.
         - **Mentorship**: We are committed to your scientific growth and career development. You will work closely with the PI and senior lab members, especially in your first year.
         - **Resources**: Access to state-of-the-art quantum optics and photonics equipment at the Technion.
         - **Collaboration network**: Active collaborations with MIT (Englund Lab), Hebrew University (Bromberg Lab), and other leading groups.
         - **Community**: The Technion's ECE faculty is a vibrant, world-class research environment. Haifa is a beautiful coastal city with a great quality of life.
         - **Funding**: Competitive fellowships and stipends. We will actively help you secure additional funding.
 
-        ---
 
         ## How to Apply
 
@@ -80,19 +74,17 @@ sections:
 
         1. **Your CV** (including publications, if any)
         2. **A brief research statement** (1-2 paragraphs): What excites you about this lab's research? What would you like to work on?
-        3. **Transcripts** (unofficial is fine)
-        4. **Names of 2-3 references** (for postdoc applications)
+        3. **Names of 2-3 references** (for postdoc applications)
 
         Subject line: `[Lab Application] Your Name — Position (PhD/Postdoc/MSc)`
 
         We review applications on a rolling basis and will respond to every email.
 
-        ---
 
         ## FAQ
 
         **When does the lab start?**
-        The Technion lab is expected to open in 2027. We are recruiting now — selected candidates can start working with us immediately at MIT or join at the Technion.
+        The Technion lab is expected to open in 2027. We are recruiting now. PhD students will be based at the Technion and spend approximately one year at MIT as part of their graduate studies.
 
         **Do I need to speak Hebrew?**
         No. The lab language is English. The Technion is an international institution with many non-Hebrew-speaking students and postdocs.

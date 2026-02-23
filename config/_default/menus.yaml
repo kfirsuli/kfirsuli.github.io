@@ -8,6 +8,9 @@ main:
   - name: Publications
     url: /publications/
     weight: 30
+  - name: Group
+    url: /group/
+    weight: 40
   - name: Openings
     url: /openings/
     weight: 50

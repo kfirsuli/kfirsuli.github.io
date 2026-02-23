@@ -3,3 +3,8 @@
   font-weight: 700 !important;
   letter-spacing: 0.01em;
 }
+
+/* Hide education section on homepage only */
+#home-bio .mb-16 {
+  display: none;
+}

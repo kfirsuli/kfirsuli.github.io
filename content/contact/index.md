@@ -17,7 +17,6 @@ sections:
 
         **kfir@mit.edu**
 
-        ---
 
         ## Current Address (MIT)
 
@@ -26,7 +25,6 @@ sections:
         77 Massachusetts Avenue
         Cambridge, MA 02139, USA
 
-        ---
 
         ## Future Address (Technion)
 
@@ -34,7 +32,6 @@ sections:
         Technion — Israel Institute of Technology
         Haifa 3200003, Israel
 
-        ---
 
         ## Profiles
 
