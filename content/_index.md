@@ -62,7 +62,7 @@ sections:
 
         <div style="padding: 1.5rem; border: 1px solid #e5e7eb; border-radius: 0.75rem;">
         <h3 style="margin-top: 0; color: #005BAA;">AI for Science</h3>
-        <p>Automated theorem proving with LLMs in Lean, and a formal library for quantum information theory. Home of the Ax-Prover framework.</p>
+        <p>LLM-driven automated theorem proving in Lean, and a formal library for quantum information theory.</p>
         <a href="/research/#ai-for-science">Learn more →</a>
         </div>
 
