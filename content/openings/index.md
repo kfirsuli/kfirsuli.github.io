@@ -89,7 +89,7 @@ sections:
         **Do I need to speak Hebrew?**
         No. The lab language is English. The Technion is an international institution with many non-Hebrew-speaking students and postdocs.
 
-**Is funding available?**
+        **Is funding available?**
         Yes. PhD and postdoc positions come with competitive stipends. I also encourage and support applications for external fellowships (e.g., Azrieli, Zuckerman, VATAT).
 
         **I don't have a background in quantum — can I still apply?**
