@@ -32,7 +32,7 @@ sections:
         ## Open Positions
 
         ### PhD Students
-        We are actively recruiting Technion PhD students to start in 2027. As part of their graduate studies, PhD students will have the opportunity to spend approximately one year at MIT working directly with Dr. Sulimany and collaborators. We are looking for candidates with a strong background relevant to one or more of our research directions:
+        We are actively recruiting Technion PhD students. As part of their graduate studies, PhD students will have the opportunity to spend approximately one year at MIT working directly with Dr. Sulimany and collaborators. We are looking for candidates with a strong background relevant to one or more of our research directions:
         - **Quantum technology** — quantum optics, photonics, quantum information, or communication engineering
         - **In-physics computing** — machine learning, analog/digital signal processing, or optical/RF hardware
         - **AI for science** — formal methods, programming language theory, mathematics, or experience with proof assistants
@@ -84,7 +84,7 @@ sections:
         ## FAQ
 
         **When does the lab start?**
-        The Technion lab is expected to open in 2027. We are recruiting now. PhD students will be based at the Technion and spend approximately one year at MIT as part of their graduate studies.
+        We are recruiting now. PhD students will be based at the Technion and spend approximately one year at MIT as part of their graduate studies.
 
         **Do I need to speak Hebrew?**
         No. The lab language is English. The Technion is an international institution with many non-Hebrew-speaking students and postdocs.
