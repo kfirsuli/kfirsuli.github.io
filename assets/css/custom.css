@@ -8,3 +8,16 @@
 #home-bio .mb-16 {
   display: none;
 }
+
+/* Wider content area on desktop */
+@media (min-width: 1024px) {
+  .max-w-screen-lg {
+    max-width: 1100px !important;
+  }
+  .max-w-prose {
+    max-width: 85ch !important;
+  }
+  .container {
+    max-width: 1100px !important;
+  }
+}
