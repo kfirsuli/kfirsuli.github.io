@@ -37,7 +37,7 @@ sections:
         url: /openings/
     design:
       card:
-        css_class: 'bg-primary-700 dark:bg-primary-900'
+        css_class: 'bg-primary-500 dark:bg-primary-900'
         css_style: ''
 
   - block: markdown
