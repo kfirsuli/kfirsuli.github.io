@@ -9,6 +9,12 @@
   display: none;
 }
 
+/* Force white text on CTA card in light mode */
+#section-cta-card h2,
+#section-cta-card div {
+  color: #ffffff !important;
+}
+
 /* Wider content area on desktop */
 @media (min-width: 1024px) {
   .max-w-screen-lg {
