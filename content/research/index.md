@@ -85,7 +85,7 @@ sections:
 
         <h2 id="ai-for-science">3. AI for Science</h2>
 
-        A core direction of our research treats AI as a **partner in rigorous scientific discovery**. We couple large language models with proof assistants like Lean 4: the LLM conjectures broadly while the verifier certifies strictly, producing results that are provably correct, not merely plausible. We co-founded the [**Center for Verifiable AI (CVAI)**](https://benjyjf.github.io/AutomatedTheoremProvingWebsite/) at MIT to pursue this research program.
+        A core direction of our research treats AI as a **partner in rigorous scientific discovery**. We couple large language models with proof assistants like Lean 4: the LLM conjectures broadly while the verifier certifies strictly, producing results that are provably correct, not merely plausible. We co-founded the **Center for Verifiable AI (CVAI)** at MIT-Technion to pursue this research program.
 
         <h3 id="automated-theorem-proving">Automated Theorem Proving</h3>
 
