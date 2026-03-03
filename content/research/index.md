@@ -89,7 +89,7 @@ sections:
 
         <h3 id="automated-theorem-proving">Automated Theorem Proving</h3>
 
-        We build **multi-agent frameworks** that equip LLMs with the tools of the Lean proof assistant. The model inspects proof goals, searches for relevant lemmas, and generates verified proof steps, all within a feedback loop where the proof assistant checks every step for correctness. This leverages the creativity of LLMs while demanding the rigor of formal verification. We have demonstrated this approach on benchmarks in abstract algebra and quantum theory, and as a human-AI collaboration tool that helped formalize a complex cryptography theorem in ~2,000 lines of Lean over two working days.
+        We build **multi-agent frameworks** that equip LLMs with the tools of the Lean proof assistant. The model inspects proof goals, searches for relevant lemmas, and generates verified proof steps, all within a feedback loop where the proof assistant checks every step for correctness. This leverages the creativity of LLMs while demanding the rigor of formal verification. We have demonstrated this approach on benchmarks in abstract algebra and quantum theory.
 
         The impact extends far beyond mathematics: formal verification can certify that a quantum protocol is truly secure, that an optimization algorithm converges, or that a physical model satisfies conservation laws. By automating this process, we aim to accelerate the cycle of conjecture, proof, and discovery across the sciences.
 
