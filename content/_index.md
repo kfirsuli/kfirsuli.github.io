@@ -50,7 +50,7 @@ sections:
 
         <div style="padding: 1.5rem; border: 1px solid #e5e7eb; border-radius: 0.75rem;">
         <h3 style="margin-top: 0; color: #005BAA;">Quantum Technology</h3>
-        <p>Quantum cryptography, secure quantum computation, and quantum machine learning — from provably secure QKD to information-theoretically secure deep learning.</p>
+        <p>Quantum cryptography, secure quantum computation, and quantum machine learning, from provably secure quantum cryptography to information-theoretically secure deep learning.</p>
         <a href="/research/#quantum-technology">Learn more →</a>
         </div>
 
@@ -62,7 +62,7 @@ sections:
 
         <div style="padding: 1.5rem; border: 1px solid #e5e7eb; border-radius: 0.75rem;">
         <h3 style="margin-top: 0; color: #005BAA;">AI for Science</h3>
-        <p>LLM-driven automated theorem proving in Lean, and a formal library for quantum information theory.</p>
+        <p>Coupling LLMs with proof assistants for machine-checked scientific discovery. We build multi-agent theorem provers in Lean, formalize quantum information theory, and design benchmarks that measure real progress.</p>
         <a href="/research/#ai-for-science">Learn more →</a>
         </div>
 

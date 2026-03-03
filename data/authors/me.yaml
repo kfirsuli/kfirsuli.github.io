@@ -14,9 +14,9 @@ bio: |
   in-physics computing, and automated theorem proving for quantum information.
 
 affiliations:
-  - name: MIT — Research Laboratory for Electronics
+  - name: MIT, Research Laboratory for Electronics
     url: https://www.rle.mit.edu/
-  - name: Technion — Viterbi Faculty of ECE
+  - name: Technion, Viterbi Faculty of ECE
     url: https://ece.technion.ac.il/
 
 links:
@@ -62,12 +62,12 @@ education:
 
 experience:
   - role: Incoming Assistant Professor
-    org: Technion — Viterbi Faculty of ECE
+    org: Technion, Viterbi Faculty of ECE
     start: 2027
     end: "\u200C"
     summary: Building the Quantum Machine Intelligence Lab at the intersection of quantum technology, in-physics computing, and AI for science.
   - role: Postdoctoral Fellow & Team Leader
-    org: MIT — Research Laboratory for Electronics
+    org: MIT, Research Laboratory for Electronics
     start: 2024
     summary: |
       Leading the Quantum Perception team in Prof. Dirk Englund's Quantum Photonics & AI group. Research on quantum-secure deep learning, in-physics computing, and automated theorem proving.
@@ -104,6 +104,4 @@ awards:
     awarder: Israeli Council for Higher Education (VATAT)
     date: "2020-01-01"
   - title: Talpiot Program Graduate
-    awarder: Israel Defense Forces
-    date: "2005-01-01"
     summary: Elite IDF science and leadership track, selecting ~50 recruits per year.

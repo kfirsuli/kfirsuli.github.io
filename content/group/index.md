@@ -1,6 +1,6 @@
 ---
 title: Group
-summary: Meet the Quantum Perception team at MIT — future Quantum Machine Intelligence Lab at the Technion
+summary: Meet the Quantum Perception team at MIT, future Quantum Machine Intelligence Lab at the Technion
 type: landing
 date: 2024-01-01
 
@@ -17,7 +17,7 @@ sections:
 
         We work at the intersection of quantum technology, in-physics computing, and AI for science. Our team combines expertise in experimental quantum optics, machine learning, integrated photonics, and formal verification.
 
-        **We are actively recruiting PhD students and postdocs** to join us — either at MIT now or at the Technion starting 2027. [See open positions →](/openings/)
+        **We are actively recruiting PhD students and postdocs** to join us, either at MIT now or at the Technion starting 2027. [See open positions →](/openings/)
 
 
         ## Team
@@ -60,7 +60,7 @@ sections:
         <img src="benjy-firester.jpg" alt="Benjy Firester" style="width: 150px; height: 150px; object-fit: cover; border-radius: 50%; margin: 0 auto 1rem;">
         <h3 style="margin-top: 0;"><a href="https://scholar.google.com/citations?user=qKbndfgAAAAJ">Benjy Firester</a></h3>
         <p style="color: #005BAA; font-weight: 600; margin-bottom: 0.5rem;">PhD Student</p>
-        <p style="font-size: 0.85rem; color: #6b7280; margin-bottom: 0.3rem;">Differential Geometry</p>
+        <p style="font-size: 0.85rem; color: #6b7280; margin-bottom: 0.3rem;">Automated Theorem Proving</p>
         <p style="font-size: 0.85rem; color: #6b7280;">BSc, Harvard University</p>
         </div>
 
@@ -72,10 +72,10 @@ sections:
         We are fortunate to work with outstanding collaborators:
 
         <ul>
-        <li><b><a href="https://scholar.google.com/citations?user=ZFpENKoAAAAJ">Prof. Dirk Englund</a></b> — MIT, Quantum Photonics & AI Group</li>
-        <li><b><a href="https://scholar.google.com/citations?user=S5znnzoAAAAJ">Prof. Yaron Bromberg</a></b> — Hebrew University of Jerusalem, Complex Photonics Lab</li>
-        <li><b><a href="https://scholar.google.com/citations?user=PUUW6h4AAAAJ">Dr. Ryan Hamerly</a></b> — MIT</li>
-        <li><b><a href="https://scholar.google.com/citations?user=22dxhNQAAAAJ">Prof. Michael Ben-Or</a></b> — Hebrew University of Jerusalem</li>
+        <li><b><a href="https://scholar.google.com/citations?user=ZFpENKoAAAAJ">Prof. Dirk Englund</a></b>, MIT, Quantum Photonics & AI Group</li>
+        <li><b><a href="https://scholar.google.com/citations?user=S5znnzoAAAAJ">Prof. Yaron Bromberg</a></b>, Hebrew University of Jerusalem, Complex Photonics Lab</li>
+        <li><b><a href="https://scholar.google.com/citations?user=PUUW6h4AAAAJ">Dr. Ryan Hamerly</a></b>, MIT</li>
+        <li><b><a href="https://scholar.google.com/citations?user=22dxhNQAAAAJ">Prof. Michael Ben-Or</a></b>, Hebrew University of Jerusalem</li>
         </ul>
 
 

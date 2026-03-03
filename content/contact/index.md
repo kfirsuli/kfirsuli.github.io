@@ -29,7 +29,7 @@ sections:
         ## Future Address (Technion)
 
         Andrew and Erna Viterbi Faculty of Electrical & Computer Engineering
-        Technion — Israel Institute of Technology
+        Technion, Israel Institute of Technology
         Haifa 3200003, Israel
 
 
