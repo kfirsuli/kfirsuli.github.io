@@ -15,7 +15,7 @@ sections:
       text: |
         We are building the **Quantum Machine Intelligence Lab** at the **Technion's Andrew and Erna Viterbi Faculty of Electrical & Computer Engineering**.
 
-        We are looking for curious, driven researchers to join us at all levels. In 2026 and 2027, Technion PhD candidates will join our team at MIT as part of their graduate studies, a unique opportunity for an extended, funded research visit at one of the world's leading research universities.
+        We are looking for curious, driven researchers to join us at all levels. For new members joining in 2026, we offer a ~1 year funded visit to MIT as part of your graduate studies.
 
 
         ## Research Vision
