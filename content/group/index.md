@@ -49,8 +49,8 @@ sections:
         </div>
 
         <div style="padding: 1.5rem; border: 1px solid #e5e7eb; border-radius: 0.75rem; text-align: center;">
-        <img src="jhonatan-morag.jpg" alt="Jhonatan Morag" style="width: 150px; height: 150px; object-fit: cover; border-radius: 50%; margin: 0 auto 1rem;">
-        <h3 style="margin-top: 0;"><a href="https://scholar.google.com/citations?user=yEdOoDgAAAAJ">Jhonatan Morag</a></h3>
+        <img src="jhonatan-morag.jpg" alt="Jonathan Morag" style="width: 150px; height: 150px; object-fit: cover; border-radius: 50%; margin: 0 auto 1rem;">
+        <h3 style="margin-top: 0;"><a href="https://scholar.google.com/citations?user=yEdOoDgAAAAJ">Jonathan Morag</a></h3>
         <p style="color: #005BAA; font-weight: 600; margin-bottom: 0.5rem;">Postdoctoral Researcher</p>
         <p style="font-size: 0.85rem; color: #6b7280; margin-bottom: 0.3rem;">Quantum Information Science</p>
         <p style="font-size: 0.85rem; color: #6b7280;">PhD, Weizmann Institute of Science</p>
@@ -59,9 +59,9 @@ sections:
         <div style="padding: 1.5rem; border: 1px solid #e5e7eb; border-radius: 0.75rem; text-align: center;">
         <img src="benjy-firester.jpg" alt="Benjy Firester" style="width: 150px; height: 150px; object-fit: cover; border-radius: 50%; margin: 0 auto 1rem;">
         <h3 style="margin-top: 0;"><a href="https://scholar.google.com/citations?user=qKbndfgAAAAJ">Benjy Firester</a></h3>
-        <p style="color: #005BAA; font-weight: 600; margin-bottom: 0.5rem;">PhD Student</p>
+        <p style="color: #005BAA; font-weight: 600; margin-bottom: 0.5rem;">PhD Candidate, MIT</p>
         <p style="font-size: 0.85rem; color: #6b7280; margin-bottom: 0.3rem;">Automated Theorem Proving</p>
-        <p style="font-size: 0.85rem; color: #6b7280;">BSc, Harvard University</p>
+        <p style="font-size: 0.85rem; color: #6b7280;">AB/AM, Harvard University</p>
         </div>
 
         </div>

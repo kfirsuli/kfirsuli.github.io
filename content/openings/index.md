@@ -20,7 +20,7 @@ sections:
 
         ## Research Vision
 
-        The lab will advance the second quantum revolution in the AI era, developing novel information-processing protocols and demonstrating them on physical platforms. Our experimental toolbox includes integrated photonics, fiber optics, analog electronics, and satellite-communication infrastructure, with a dual track: harvesting classical gains now while advancing the protocols and hardware needed for scalable, fault-tolerant quantum information processing.
+        Our mission is to lead the quantum revolution in the AI era, transforming how the world secures information, powers artificial intelligence, and advances scientific discovery. Our experimental toolbox includes integrated photonics, fiber optics, analog electronics, and satellite-communication infrastructure, with a dual track: harvesting classical gains now while advancing the hardware and protocols needed for scalable, fault-tolerant quantum information processing.
 
         - **[Quantum technology](/research/#quantum-technology)**: quantum cryptography, secure computation, and quantum machine learning on integrated photonic platforms
         - **[In-physics computing](/research/#in-physics-computing)**: optical and RF neural networks that perform ML directly in the physical domain, and the fundamental energy limits of computation

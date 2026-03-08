@@ -13,7 +13,7 @@ sections:
       title: Research
       subtitle: ''
       text: |
-        We aim to advance the second quantum revolution in the AI era by developing novel information-processing protocols and demonstrating them on physical platforms, with a dual track: harvesting classical gains now while advancing the protocols and hardware needed for scalable, fault-tolerant quantum information processing.
+        Our mission is to lead the quantum revolution in the AI era, transforming how the world secures information, powers artificial intelligence, and advances scientific discovery. We develop novel information-processing protocols and demonstrate them on physical platforms, with a dual track: harvesting classical gains now while advancing the hardware and protocols needed for scalable, fault-tolerant quantum information processing.
 
         <div style="border-left: 4px solid #005BAA; padding: 1rem 1.5rem; margin: 2rem 0;">
 
@@ -36,7 +36,7 @@ sections:
 
         <h2 id="quantum-technology">1. Quantum Technology</h2>
 
-        The second quantum revolution promises advances in communication, computation, and sensing, driven by quantum information processing that harnesses superposition and entanglement. These fundamental quantum properties were first demonstrated in pioneering experiments with photons in the 1970s and 1980s, recognized by the 2022 Nobel Prize in Physics. Photons have emerged as ideal carriers for quantum information, and integrated photonic circuits are central to scaling both quantum and classical information processing.
+        Quantum technology will reshape industries from healthcare to finance, enabling communication that cannot be intercepted and computation that outperforms any existing machine. Advances in quantum information processing harness superposition and entanglement, fundamental properties first demonstrated in pioneering experiments with photons in the 1970s and 1980s, recognized by the 2022 Nobel Prize in Physics. Photons have emerged as ideal carriers for quantum information, and integrated photonic circuits are central to scaling both quantum and classical information processing.
 
         <h3 id="quantum-cryptography">Quantum Cryptography</h3>
 
@@ -61,7 +61,7 @@ sections:
 
         <h2 id="in-physics-computing">2. In-Physics Computing</h2>
 
-        Analog computing has been studied for decades, but the demand for high precision kept practical systems in the digital domain. That constraint has now relaxed: today's machine-learning models rely on 8-bit or even 4-bit arithmetic, well within analog reach. This opens the door to computing architectures that perform machine learning **directly in the physical domain**, using optical and radio-frequency hardware to execute neural-network operations at the speed of light, with immediate energy-cost advantages over digital electronics.
+        AI is reshaping every sector of society, but it faces a critical bottleneck: energy. Data centers already consume more electricity than many countries, and demand is doubling every few years. Current processors waste vast amounts of energy as heat, making this path unsustainable. Analog computing has been studied for decades, but the demand for high precision kept practical systems in the digital domain. That constraint has now relaxed: today's machine-learning models rely on 8-bit or even 4-bit arithmetic, well within analog reach. This opens the door to computing architectures that perform machine learning **directly in the physical domain**, using optical and radio-frequency hardware to execute neural-network operations at the speed of light, with immediate energy-cost advantages over digital electronics.
 
         <h3 id="optical-machine-learning">Optical Machine Learning</h3>
 
@@ -85,7 +85,7 @@ sections:
 
         <h2 id="ai-for-science">3. AI for Science</h2>
 
-        A core direction of our research treats AI as a **partner in rigorous scientific discovery**. We couple large language models with proof assistants like Lean 4: the LLM conjectures broadly while the verifier certifies strictly, producing results that are provably correct, not merely plausible. We co-founded the **Center for Verifiable AI (CVAI)** at MIT-Technion to pursue this research program.
+        AI is beginning to transform science, from discovering new materials to proving mathematical theorems. Yet there is a critical bottleneck: AI makes mistakes. Every user of ChatGPT or Claude sees the warning: "AI can make mistakes. Check important info." In medicine, an unchecked AI mistake could mean a wrong diagnosis; in engineering, a structure that fails. We are building AI whose scientific conclusions can be mathematically verified: AI that comes with a proof, not just a prediction. We founded the **[Center for Verifiable AI (CVAI)](https://verifiablescience.ai/)** at MIT-Technion to pursue this research program, coupling large language models with proof assistants like Lean 4: the LLM conjectures broadly while the verifier certifies strictly, producing results that are provably correct, not merely plausible.
 
         <h3 id="automated-theorem-proving">Automated Theorem Proving</h3>
 
